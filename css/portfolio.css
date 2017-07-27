@@ -1,0 +1,66 @@
+#homeTitle{
+    font-family: 'Droid Sans', sans-serif;
+    text-align:center;
+    color:#333;
+}
+
+#homeSubtitle{
+    font-family: 'Droid Sans', sans-serif;
+    text-align:center;
+    color:#696969;
+}
+
+#homeText{
+    font-family: 'Roboto Slab', serif;
+    color:#5b5b5b;
+    font-size:20px;
+    text-align:justify;
+    position:relative;
+}
+
+#aboutMeLink{
+    color:#79aefe;
+}
+
+#projectsLink{
+    color: #FF9900;  
+}
+
+#playNineLink{
+    color:#279636;  
+}
+
+#homeLink{
+    color: #ec1b5a;
+}
+
+#socialLinkList{
+    list-style-type: none;
+    text-align:center;
+    padding:0;
+
+    margin:20px;
+}
+
+.footer {
+  position: absolute;
+  text-align:center;
+  color:#bdbdbd;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 36px;
+  font-size:16px;
+}
+
+#linkHomePage{
+    color:#5b5b5b;
+}
+
+#linkHomePage:hover{
+    color:#ec1b5a;
+}
+
+
+
+
